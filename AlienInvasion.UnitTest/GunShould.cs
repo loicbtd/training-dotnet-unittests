@@ -21,21 +21,6 @@ namespace AlienInvasion.UnitTest
         }
 
         [Fact]
-        public void NotKillAlienIfHeIsDoging()
-        {
-            // Arrange
-            var alienStronger = new Alien();
-            var gun = new Gun();
-
-            // Act
-            alienStronger.Dodge();
-            gun.Shoot(alienStronger);
-
-            // Assert
-            Assert.False(alienStronger.IsDead);
-        }
-
-        [Fact]
         public void OnlyHave3Ammunitions()
         {
             // Arrange
