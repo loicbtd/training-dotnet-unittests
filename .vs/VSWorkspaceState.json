@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\AlienInvasion.Core",
+    "\\AlienInvasion.Core\\obj",
+    "\\AlienInvasion.UnitTest"
   ],
+  "SelectedNode": "\\AlienInvasion.UnitTest\\GunShould.cs",
   "PreviewInSolutionExplorer": false
 }
