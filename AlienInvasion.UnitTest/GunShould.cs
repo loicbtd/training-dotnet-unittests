@@ -19,5 +19,33 @@ namespace AlienInvasion.UnitTest
             // Assert
             Assert.True(alien.IsDead);
         }
+
+        [Fact]
+        public void NotKillAlienIfHeIsDoging()
+        {
+            // Arrange
+            var alienStronger = new Alien();
+            var gun = new Gun();
+
+            // Act
+            alienStronger.Dodge();
+            gun.Shoot(alienStronger);
+
+            // Assert
+            Assert.False(alienStronger.IsDead);
+        }
+
+        [Fact]
+        public void OnlyHave3Ammunitions()
+        {
+            // Arrange
+            var gun = new Gun();
+
+            // Act
+            gun.Reload();
+
+            // Assert
+            Assert.Equal(3, gun.AmmunitionCount);
+        }
     }
 }
