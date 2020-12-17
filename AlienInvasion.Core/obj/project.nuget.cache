@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Za+Mknz86r1EonCcJM9T0CNCAvc1Ds2Xo5qRqnjCsjJ2Hvl1dDvwveELg++ZJUf1DYRyFBCBhHf++PMQjn0srg==",
+  "success": true,
+  "projectFilePath": "C:\\projects\\AlienInvasion\\AlienInvasion.Core\\AlienInvasion.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\loicb\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\loicb\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

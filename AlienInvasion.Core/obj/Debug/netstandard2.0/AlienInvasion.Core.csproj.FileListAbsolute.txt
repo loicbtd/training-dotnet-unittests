@@ -1,0 +1,9 @@
+C:\projects\AlienInvasion\AlienInvasion.Core\bin\Debug\netstandard2.0\AlienInvasion.Core.deps.json
+C:\projects\AlienInvasion\AlienInvasion.Core\bin\Debug\netstandard2.0\AlienInvasion.Core.dll
+C:\projects\AlienInvasion\AlienInvasion.Core\bin\Debug\netstandard2.0\AlienInvasion.Core.pdb
+C:\projects\AlienInvasion\AlienInvasion.Core\obj\Debug\netstandard2.0\AlienInvasion.Core.csprojAssemblyReference.cache
+C:\projects\AlienInvasion\AlienInvasion.Core\obj\Debug\netstandard2.0\AlienInvasion.Core.AssemblyInfoInputs.cache
+C:\projects\AlienInvasion\AlienInvasion.Core\obj\Debug\netstandard2.0\AlienInvasion.Core.AssemblyInfo.cs
+C:\projects\AlienInvasion\AlienInvasion.Core\obj\Debug\netstandard2.0\AlienInvasion.Core.csproj.CoreCompileInputs.cache
+C:\projects\AlienInvasion\AlienInvasion.Core\obj\Debug\netstandard2.0\AlienInvasion.Core.dll
+C:\projects\AlienInvasion\AlienInvasion.Core\obj\Debug\netstandard2.0\AlienInvasion.Core.pdb
